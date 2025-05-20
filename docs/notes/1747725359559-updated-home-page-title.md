@@ -1,1 +1,1 @@
-{ "blocks": [{ "text": "Updated content from PATCH" }] }
+updated content from PATCH
